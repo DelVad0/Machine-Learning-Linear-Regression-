@@ -1,6 +1,7 @@
-# Machine Learning (Linear Regression)
+# Machine Learning (Linear Regression) 📊
 
-## This project involves the implementation of a Predictive Machine Learning Model in Python using popular libraries such as Pandas, Numpy, and Scikit-learn. The model focuses on predicting house prices and its accuracy and generalization ability were evaluated through hyperparameter tuning and data visualization techniques.
+## 🚀 This project involves the implementation of a Predictive Machine Learning Model in Python using popular libraries such as Pandas, Numpy, and Scikit-learn. 
+## 🧑‍💻 The model focuses on predicting house prices and its accuracy and generalization ability were evaluated through hyperparameter tuning and data visualization techniques.
 
 • Knowledge of Python programming for data handling and information processing.
 
