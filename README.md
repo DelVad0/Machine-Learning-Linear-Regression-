@@ -11,7 +11,7 @@
 
 📌 Data preprocessing, including cleaning, normalization, and selection of relevant features.
 
-📌 Implementation and training of the machine learning model (in this case, a linear regression model) to predict house prices.
+📌 Implementation and training of the machine learning model (linear regression model) to predict house prices.
 
 📌 Evaluation of the model to measure its accuracy and generalization ability.
 
